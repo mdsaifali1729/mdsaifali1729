@@ -51,7 +51,7 @@
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=mdsaifali1729&theme=react" />
 
-[![Saif1729's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mdsaifali1729&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -66,9 +66,9 @@
 <a href=" https://www.linkedin.com/in/md-saif-ali-656abb228/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MdSaifAli1729_linkedIn"/></a> <a href="https://www.instagram.com/mdsaifali89/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mdsailali89" /></a>
 <br>
 <br>
-<a href="https://twitter.com/mdsaifali1729" target="blank"><img src="https://img.shields.io/twitter/follow/mdsaifali1729?logo=twitter&style=for-the-badge" alt="amdsaifali1729" /></a>
+<a href="https://twitter.com/mdsaifali1729" target="blank"><img src="https://img.shields.io/twitter/follow/mdsaifali1729?logo=twitter&style=for-the-badge" alt="mdsaifali1729" /></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdsaifali1729&label=Profile%20views&color=0e75b6&style=flat" alt="Am10aN16" />  </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdsaifali1729&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaifali1729" />  </p> 
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
